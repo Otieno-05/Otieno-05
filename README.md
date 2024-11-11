@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Otieno Eugine
-- 👀 I’m interested in Lrearning cyber security
-- 🌱 I’m currently learning mathematics and computer science
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ; eugenerandere@gmail.com
 - 😄 Pronouns: ...
